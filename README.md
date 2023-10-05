@@ -1,5 +1,5 @@
 # nodejs_app_jobsAPI
-backend server for jobs recruitment   app
+backend server for jobs offer app
 
  # App Features :
   
